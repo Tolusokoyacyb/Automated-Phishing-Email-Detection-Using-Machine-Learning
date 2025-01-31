@@ -31,5 +31,9 @@ Applied supervised learning algorithms (e.g., logistic regression, random forest
 - Kaggle
 
   ## Pictures
-  ![image alt]
+  ![image alt](https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning/blob/main/Screenshot%202025-01-30%20161804.png)
+  ![image alt](https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning/blob/a4a31a01a98990ee61c9f87e66a39221a1ce6383/Screenshot%202025-01-30%20161827.png)
+  ![image alt](https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning/blob/a4a31a01a98990ee61c9f87e66a39221a1ce6383/Screenshot%202025-01-30%20161848.png)
+  ![image alt](https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning/blob/a4a31a01a98990ee61c9f87e66a39221a1ce6383/Screenshot%202025-01-30%20161912.png)
+  ![image alt](https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning/blob/a4a31a01a98990ee61c9f87e66a39221a1ce6383/Screenshot%202025-01-30%20163307.png)
   
